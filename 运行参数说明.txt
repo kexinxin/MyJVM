@@ -1,0 +1,1 @@
+-Xjre "C:\Program Files\Java\jre1.8.0_201" -cp "C:\Users\kexinxin" test

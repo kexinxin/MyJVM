@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b26a2c14-c337-4abc-a70b-185996482793" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/factory.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11154">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+              <folding>
+                <element signature="e#22#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>ch10/</find>
+      <find>ch10</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\kexinxin\Desktop\jvm\MyJVM\src\jvmgo\instructions\reserved</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/method.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/class_member.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/cp_classref.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/stack/swap.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/stack/pop.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/stack/dup.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/stores/astore.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/newarray.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/invokestatic.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/arraylength.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/putfield.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/checkcast.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/getfield.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/multianewarray.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/new.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/anewarray.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/invokespecial.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/invokevirtual.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/putstatic.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/getstatic.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/constant_pool.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/cp_memberref.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/rtda/heap/cp_fieldref.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/registry.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/sun/misc/VM.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/sh.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/rem.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/div.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/xor.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/iinc.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/and.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/math/sub.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/xaload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/dload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/lload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/aload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/fload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/loads/iload.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/instanceof.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/references/invokeinterface.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/comparisons/if_icmp.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/conversions/d2x.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/java/lang/Object.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/java/lang/Double.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/java/lang/Throwable.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/native/java/lang/System.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/base/instruction.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/comparisons/ifcond.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/conversions/l2x.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/conversions/i2x.go" />
+        <option value="$PROJECT_DIR$/src/jvmgo/instructions/conversions/f2x.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="516" />
+    <option name="y" value="93" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="classfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="classpath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="extended" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="loads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="references" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="reserved" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmgo" type="462c0819:PsiDirectoryNode" />
+              <item name="rtda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jvmgo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kexinxin\Desktop\jvm\MyJVM\src\jvmgo" />
+      <recent name="C:\Users\kexinxin\Desktop\jvm\MyJVM" />
+      <recent name="C:\Users\kexinxin\Desktop\jvm\MyJVM\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kexinxin\Desktop\jvm\MyJVM\src\jvmgo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyJVM" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyJVM" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <parameters value="-Xjre &quot;C:\Program Files\Java\jre1.8.0_201&quot; -cp &quot;C:\Users\kexinxin&quot; test" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/jvmgo/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyJVM" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <parameters value="-Xjre &quot;C:\Program Files\Java\jre1.8.0_201&quot; -cp &quot;C:\Users\kexinxin&quot; test" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build " />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build " />
+        <item itemvalue="Go Build.go build " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/attr_exceptions.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/conversions/d2x.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <folding>
+            <element signature="e#21#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/attr_bootstrap_methods.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/attr_constant_value.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/attr_local_variable_table.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/attr_unparsed.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/cp_utf8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <folding>
+            <element signature="e#19#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/member_info.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/cp_string.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/cp_invoke_dynamic.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classfile/constant_pool.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classpath/entry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#19#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classpath/entry_composite.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classpath/classpath.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#19#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/base/branch_logic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/base/bytecode_reader.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/base/class_init_logic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/rtda/heap/method.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/classpath/entry_wildcard.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#19#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmgo/instructions/factory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11154">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="e#22#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
